@@ -1,0 +1,3 @@
+# This is a duplicate of the web page OceanDigital.
+These work took me about a week to be fully done. In the cause of these project projext i hade some challenges and solutions which will be explained in the following lines.
+First i hade to write the html part of the of the code and writing these was pretty chalenging. The problem i faced was that of creating, naming, and placing of the adequate classes where and when to be placed in other for the CSS part of the code to run smothly without any problem, but is never as we always wish. I hade some
